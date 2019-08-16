@@ -1,6 +1,6 @@
-# `Project Overview 👽`
+# `Project Presentation 👽`
 
-Below you will find some of the projects I have played with to evaluate my skills and learn new things.
+> Below you will find a list of personal projects I have worked on that I consider relevant.
 
 # SSPE (Sevent segments processing engine) 🤖
 
