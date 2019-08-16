@@ -33,10 +33,7 @@ BoxAgileDev is a set of tools that will support you to perform some repetitive t
 
 ## Description: 
 
-Candidate presentation for NodeWeek in August at Globant or MeetUp NodeCo. This presentation emphasizes the possibilities that are opened with the CLI in NodeJS.
-
-## Observation:
-To view the code and information of this project you must request authorization from the author because at the moment it is a private repository.
+Candidate presentation for MeetUp NodeCo. This presentation emphasizes the possibilities that are opened with the CLI in NodeJS.
 
 ## Core and features: 
 
