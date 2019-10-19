@@ -135,33 +135,22 @@ API version for SSPE project.
 
 - <a href="https://github.com/harvic3/sspe-project-api" target="_blank" >Go to SSPE</a>
 
-# Assembly Algorithms 🧬
+# Assembly Algorithms (2008) 🧬
 
 ## Description: 
 
-First algorithms made in my journey through the university computer science career.
+First algorithms made in my journey through the university computer science career. 
+The most representative project is a five-degree freedom robotic arm made from recycled appliances.
 
 ## Core and features: 
 
 `Assembly`
 
-- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+- <a href="https://github.com/harvic3/first-assembly" target="_blank" >Go to repo</a>
+- <a href="https://www.youtube.com/watch?v=5tb_Uhq1SQY&t=10s" target="_blank" >See Robotic Arm on youtube</a>
 
 
-# Arduino 💡
-
-## Description: 
-
-First algorithms made in my journey through the university computer science career.
-
-## Core and features: 
-
-`C`, `C++`
-
-
-- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
-
-# C++ Algorithms 🦠
+# C++ and Arduino Scripts 🦠
 
 ## Description: 
 
@@ -169,12 +158,12 @@ First algorithms made in my journey through the university computer science care
 
 ## Core and features: 
 
-`C++`
+`C++`, `Arduino`
 
-- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+- <a href="https://github.com/harvic3/c_c-_projects" target="_blank" >Go to repo</a>
 
 
-# Java Algorithms 🧪
+# Java Scripts (2012) 🧪
 
 ## Description: 
 
@@ -184,5 +173,5 @@ First algorithms made in my journey through the university computer science care
 
 `Java`
 
-- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+- <a href="https://github.com/harvic3/java-first-code" target="_blank" >Go to repo</a>
 
