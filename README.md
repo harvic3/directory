@@ -163,7 +163,7 @@ First algorithms made in my journey through the university computer science care
 - <a href="https://github.com/harvic3/c_c-_projects" target="_blank" >Go to repo</a>
 
 
-# Java Scripts (2012) 🧪
+# Java (2012) 🧪
 
 ## Description: 
 
