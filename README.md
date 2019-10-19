@@ -29,6 +29,32 @@ BoxAgileDev is a set of tools that will support you to perform some repetitive t
 - <a href="https://www.nuget.org/packages/Vickodev.Utility.BAD/" target="_blank" >Go to BAD on Nuget Package.org</a>
 
 
+# PanicApp 🚨
+
+## Description: 
+
+Flutter Mobile application for start a event of panic from a geographic position.
+
+## Core and features: 
+
+`Flutter`, `Dart`, `GPS`
+
+- <a href="https://gitlab.com/harvic3/panic-app-mobile" target="_blank" >Go to Panic App</a>
+
+
+# HapiJs Template 🧰
+
+## Description: 
+
+A base template in HapiJs for api in NodeJs.
+
+## Core and features: 
+
+`Javascript`, `HapiJs`, `Postgres`
+
+- <a href="https://gitlab.com/harvic3/hapijs_base_api" target="_blank" >Go to BT HpiJs Api Template</a>
+
+
 # The Power Of CLI (NodeJS) 🛸
 
 ## Description: 
@@ -62,7 +88,7 @@ Web CLI interface for the SSPE API version.
 Mobile application to interact via Bluetooth (Serial and BLE) with the IoT ESP32 board.
 
 ## Observation:
-This project was abandoned and migrated to NativeScript (Vue JS) for better performance with the hardware and its development is still in process.
+This project was abandoned and migrated to NativeScript (Vue JS) for better performance with the hardware.
 
 ## Core and features: 
 
