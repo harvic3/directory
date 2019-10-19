@@ -135,3 +135,54 @@ API version for SSPE project.
 
 - <a href="https://github.com/harvic3/sspe-project-api" target="_blank" >Go to SSPE</a>
 
+# Assembly Algorithms 🧬
+
+## Description: 
+
+First algorithms made in my journey through the university computer science career.
+
+## Core and features: 
+
+`Assembly`
+
+- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+
+
+# Arduino 💡
+
+## Description: 
+
+First algorithms made in my journey through the university computer science career.
+
+## Core and features: 
+
+`C`, `C++`
+
+
+- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+
+# C++ Algorithms 🦠
+
+## Description: 
+
+First algorithms made in my journey through the university computer science career.
+
+## Core and features: 
+
+`C++`
+
+- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+
+
+# Java Algorithms 🧪
+
+## Description: 
+
+First algorithms made in my journey through the university computer science career.
+
+## Core and features: 
+
+`Java`
+
+- <a href="https://github.com/harvic3/" target="_blank" >Comin soon</a>
+
