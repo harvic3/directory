@@ -39,7 +39,7 @@ Flutter Mobile application for start a event of panic from a geographic position
 
 `Flutter`, `Dart`, `GPS`
 
-- <a href="https://gitlab.com/harvic3/panic-app-mobile" target="_blank" >Go to Panic App</a>
+- <a href="https://github.com/harvic3/panic-app-mobile" target="_blank" >Go to Panic App</a>
 
 
 # HapiJs Template 🧰
