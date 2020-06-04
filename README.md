@@ -14,6 +14,18 @@ CLI application of a challenge type HackerRank that from an input of files of pl
 
 - <a href="https://github.com/harvic3/sspe-project" target="_blank" >Go to SSPE</a>
 
+# Box Agile Dev Core (BADCore) 🚀
+
+## Description: 
+
+BoxAgileDevCore is a set of tools that will support you to perform some repetitive tasks that are executed in the development of any software project in which you interact with object models, business rules and data access of those models.
+
+## Core and features: 
+
+`C#`, `.NetCore`, `Open Source`, `Nuget`
+
+- <a href="https://github.com/harvic3/BoxAgileDevCore" target="_blank" >Go to BAD</a>
+- <a href="https://www.nuget.org/packages/Vickodev.Utility.BADCore/" target="_blank" >Go to BADCore on Nuget Package</a>
 
 # Box Agile Dev (BAD) 🚀
 
