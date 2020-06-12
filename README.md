@@ -88,10 +88,10 @@ Web CLI interface for the SSPE API version.
 
 ### Core and features: 
 
-`NodeJS`, `JavaScript`, `CLI`, `Web Sockets`
+`VueJs`, `JavaScript`, `CLI`, `Web Sockets`
 
-- <a href="https://github.com/harvic3/sspe-web-cli" target="_blank" >Go to Web CLI</a>
-
+- <a href="https://sspengine.now.sh/" target="_blank" >Go to Web CLI</a>
+- <a href="https://github.com/harvic3/sspe-cli-web" target="_blank" >Go to repo</a>
 
 # C-Motic 🏢
 
