@@ -71,13 +71,13 @@ A base template in HapiJs for api in NodeJs.
 
 ## Description: 
 
-Candidate presentation for MeetUp NodeCo. This presentation emphasizes the possibilities that are opened with the CLI in NodeJS.
+Candidate presentation for MeetUp. This presentation emphasizes the possibilities that are opened with the CLI in NodeJS.
 
 ## Core and features: 
 
 `NodeJS`, `JavaScript`, `CLI`
 
-- <a href="https://github.com/harvic3/nodeweek19-cli" target="_blank" >Go to TPofCLI</a>
+- <a href="https://github.com/harvic3/the-power-of-cli-nodejs" target="_blank" >Go to TPofCLI</a>
 
 
 # SSPE Web CLI ☢️
