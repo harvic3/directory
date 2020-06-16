@@ -2,6 +2,19 @@
 
 > Below you will find a list of personal projects I have worked on that I consider relevant.
 
+
+# NodeJs Skeleton with TypeScript (NodeTSkeleton) 💀
+
+## Description: 
+
+NodeTSkeleton is `NodeJs` skeleton to use `TypeScript` with `ExpressJs`, `KoaJs` or any other `web server framework`.
+
+## Core and features: 
+
+`NodeJS`, `TypeScript`, `API`
+
+- <a href="https://github.com/harvic3/node-tskeleton" target="_blank" >Go to NodeTskeleton</a>
+
 # SSPE (Sevent segments processing engine) 🤖
 
 ## Description: 
