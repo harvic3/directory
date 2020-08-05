@@ -7,13 +7,13 @@
 
 ## Description: 
 
-NodeTSkeleton is `NodeJs` skeleton to use `TypeScript` with `ExpressJs`, `KoaJs` or any other `web server framework`.
+NodeTSkeleton is `NodeJs` skeleton based in `Clean Arquitecture` to use `TypeScript` with `ExpressJs`, `KoaJs` or any other `web server framework`.
 
 ## Core and features: 
 
-`NodeJS`, `TypeScript`, `API`
+`NodeJS`, `TypeScript`, `API`, `Clean Arquitecture`
 
-- <a href="https://github.com/harvic3/node-tskeleton" target="_blank" >Go to NodeTskeleton</a>
+- <a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
 
 # SSPE (Sevent segments processing engine) 🤖
 
