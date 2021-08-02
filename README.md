@@ -7,11 +7,11 @@
 
 ## Description: 
 
-NodeTSkeleton is `NodeJs` skeleton based in `Clean Arquitecture` to use `TypeScript` with `ExpressJs`, `KoaJs` or any other `web server framework`.
+NodeTSkeleton is `NodeJs` skeleton based in `Clean Architecture` to use `TypeScript` with `ExpressJs`, `KoaJs` or any other `web server framework`.
 
 ## Core and features: 
 
-`NodeJS`, `TypeScript`, `API`, `Clean Arquitecture`
+`NodeJS`, `TypeScript`, `API`, `Clean Architecture`
 
 - <a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
 
