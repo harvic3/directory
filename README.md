@@ -15,6 +15,7 @@ NodeTSkeleton is `NodeJs` skeleton based in `Clean Architecture` to use `TypeScr
 
 - <a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
 
+
 # SSPE (Sevent segments processing engine) 🤖
 
 ## Description: 
@@ -26,6 +27,7 @@ CLI application of a challenge type HackerRank that from an input of files of pl
 `NodeJS`, `JavaScript`, `Naural Networks`, `CLI`
 
 - <a href="https://github.com/harvic3/sspe-project" target="_blank" >Go to SSPE</a>
+
 
 # Box Agile Dev Core (BADCore) 🚀
 
@@ -39,6 +41,7 @@ BoxAgileDevCore is a set of tools that will support you to perform some repetiti
 
 - <a href="https://github.com/harvic3/BoxAgileDevCore" target="_blank" >Go to BAD</a>
 - <a href="https://www.nuget.org/packages/Vickodev.Utility.BADCore/" target="_blank" >Go to BADCore on Nuget Package</a>
+
 
 # Box Agile Dev (BAD) 🚀
 
@@ -105,6 +108,7 @@ Web CLI interface for the SSPE API version.
 
 - <a href="https://sspengine.now.sh/" target="_blank" >Go to Web CLI</a>
 - <a href="https://github.com/harvic3/sspe-cli-web" target="_blank" >Go to repo</a>
+
 
 # C-Motic 🏢
 
