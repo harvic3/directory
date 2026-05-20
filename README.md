@@ -13,7 +13,7 @@ NodeTSkeleton is `NodeJs` skeleton based in `Clean Architecture` to use `TypeScr
 
 `NodeJS`, `TypeScript`, `API`, `Clean Architecture`
 
-- <a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
+- <a href="https://github.com/medevorg/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
 
 
 # SSPE (Sevent segments processing engine) 🤖
